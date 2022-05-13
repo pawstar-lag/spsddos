@@ -6,3 +6,4 @@ function ddossuwu() {
     console.log("HTTP request sent")
   }
 }
+ddosuwu()
